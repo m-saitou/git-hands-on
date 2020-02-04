@@ -1,4 +1,4 @@
-![CI](https://github.com/m-saitou/git-hands-on/workflows/CI/badge.svg)
+![CI](https://github.com/m-saitou/git-hands-on/workflows/CI/badge.svg?branch=master)
 
 # git practice
 
